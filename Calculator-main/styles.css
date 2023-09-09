@@ -3,16 +3,16 @@
   --font: #222;
   --border: #333;
   --screen: #eee;
-  --calculator: #aaa;
+  --calculator: #ca9382;
   --btn: #eee;
   --btn-hover: #ddd;
   --btn-active: #ccc;
-  --btn-red: #faa;
-  --btn-red-hover: #e99;
-  --btn-red-active: #d88;
-  --btn-blue: #aaf;
+  --btn-red: rgb(170, 245, 255);
+  --btn-red-hover: rgb(135, 201, 218);
+  --btn-red-active: rgb(136, 194, 221);
+  --btn-blue: rgb(149, 154, 226);
   --btn-blue-hover: #99e;
-  --btn-blue-active: #88d;
+  --btn-blue-active: rgb(136, 201, 221);
 }
 
 *,
